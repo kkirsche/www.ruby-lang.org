@@ -67,7 +67,7 @@ GEM
     rack-ssl (1.4.1)
       rack
     raindrops (0.13.0)
-    rake (10.4.2)
+    rake (12.3.3)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -99,7 +99,7 @@ DEPENDENCIES
   rack-protection
   rack-rewrite
   rack-ssl
-  rake (~> 10.0)
+  rake (~> 12.3)
   spidr (~> 0.4)
   unicorn
   validate-website (~> 0.9)
